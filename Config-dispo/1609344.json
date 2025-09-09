@@ -1,5 +1,7 @@
 {
     "VersionConfig": 1,
     "Placa": "VGN02-25-002",
-    "IdP": "04c0a5f4-e2f6-497a-8b79-3a570f4b95e3"
+    "IdP": "04c0a5f4-e2f6-497a-8b79-3a570f4b95e3",
+    "TiempoOn": "1",
+    "TiempoOff": "30"
 }
